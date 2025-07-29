@@ -1,12 +1,35 @@
-# React + Vite
+# 🌿 EcoTracker - Carbon Footprint Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EcoTracker is a responsive React.js web application that helps users calculate and track their carbon footprint based on their lifestyle habits. Built using Vite + React, the app also includes a sleek navbar, interactive buttons, and a beautiful footer to deliver a modern, eco-conscious experience.
 
-Currently, two official plugins are available:
+> 💡 Live Demo: [Click here to view the deployed app](https://your-vercel-link.vercel.app)  
+> *(Replace with your actual Vercel URL)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌱 **Carbon Footprint Calculator**: Estimates your environmental impact based on inputs like travel, electricity usage, and more.
+- 📱 **Responsive UI**: Works beautifully on desktop, tablet, and mobile.
+- 🔍 **Clean Navigation**: Includes a sticky navbar and a smooth scroll experience.
+- 🎨 **Modern Design**: Built with semantic HTML, CSS, and React best practices.
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** (v19+)
+- **Vite** (for blazing fast build & dev environment)
+- **HTML5 + CSS3**
+- **Git + GitHub**
+- **Vercel** (for hosting)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ojas235767/ecotracker.git
+cd ecotracker
+npm install
+npm run dev
