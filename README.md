@@ -2,8 +2,7 @@
 
 EcoTracker is a responsive React.js web application that helps users calculate and track their carbon footprint based on their lifestyle habits. Built using Vite + React, the app also includes a sleek navbar, interactive buttons, and a beautiful footer to deliver a modern, eco-conscious experience.
 
-> 💡 Live Demo: [Click here to view the deployed app](https://your-vercel-link.vercel.app)  
-> *(Replace with your actual Vercel URL)*
+> 💡 Live Demo: https://eco-tracker-blue.vercel.app/
 
 ---
 
