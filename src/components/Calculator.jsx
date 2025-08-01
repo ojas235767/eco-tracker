@@ -9,7 +9,7 @@ const Calculator = () => {
   const calculate = () => {
     const carbonMiles = parseFloat(miles) * 0.404;
     const carbonElectricity = parseFloat(electricity) * 0.92;
-    const carbonMeat = parseFloat(meals) * 7; // Average 7kg CO2 per meat meal
+    const carbonMeat = parseFloat(meals) * 7; 
     const total = (carbonMiles || 0) + (carbonElectricity || 0) + (carbonMeat || 0);
     setResult(total.toFixed(2));
   };
