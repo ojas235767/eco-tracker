@@ -1,34 +1,38 @@
-# 🌿 EcoTracker - Carbon Footprint Calculator
+# 🌿 EcoTracker
 
-EcoTracker is a responsive React.js web application that helps users calculate and track their carbon footprint based on their lifestyle habits. Built using Vite + React, the app also includes a sleek navbar, interactive buttons, and a beautiful footer to deliver a modern, eco-conscious experience.
+**EcoTracker** is a React-based web application that helps users measure and monitor their daily carbon footprint based on everyday activities like travel, electricity usage, and meat consumption.
 
-> 💡 Live Demo: https://eco-tracker-blue.vercel.app/
+## 📸 Preview
+
+> _Live Demo:_ https://eco-tracker-blue.vercel.app/
 
 ---
 
 ## 🚀 Features
 
-- 🌱 **Carbon Footprint Calculator**: Estimates your environmental impact based on inputs like travel, electricity usage, and more.
-- 📱 **Responsive UI**: Works beautifully on desktop, tablet, and mobile.
-- 🔍 **Clean Navigation**: Includes a sticky navbar and a smooth scroll experience.
-- 🎨 **Modern Design**: Built with semantic HTML, CSS, and React best practices.
+- 🚗 Track transport emissions based on kilometers traveled
+- ⚡ Estimate electricity-related carbon footprint (kWh-based)
+- 🥩 Calculate emissions from meat consumption (weekly meals)
+- 📊 Real-time CO₂ output calculation
+- 🎯 Clean UI built with React + CSS
+- 🌍 Deployed on Vercel for lightning-fast global access
 
 ---
 
-## 🛠 Tech Stack
+## 📦 Tech Stack
 
-- **React.js** (v19+)
-- **Vite** (for blazing fast build & dev environment)
-- **HTML5 + CSS3**
-- **Git + GitHub**
-- **Vercel** (for hosting)
+- React (Vite)
+- JavaScript (ES6+)
+- CSS (Vanilla)
+- Vercel for deployment
 
 ---
 
-## 📦 Installation
+## 🛠️ Installation (For Local Dev)
 
 ```bash
-git clone https://github.com/ojas235767/ecotracker.git
-cd ecotracker
+git clone https://github.com/your-username/eco-tracker.git
+cd eco-tracker
 npm install
 npm run dev
+
